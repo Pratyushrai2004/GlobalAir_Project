@@ -1,0 +1,10 @@
+^C:\USERS\RAIPR\DOWNLOADS\GLOBALAIR_PROJECT\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/raipr/Downloads/GlobalAir_Project -BC:/Users/raipr/Downloads/GlobalAir_Project/build --check-stamp-file C:/Users/raipr/Downloads/GlobalAir_Project/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

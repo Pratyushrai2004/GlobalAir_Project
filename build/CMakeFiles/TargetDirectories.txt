@@ -1,0 +1,3 @@
+C:/Users/raipr/Downloads/GlobalAir_Project/build/CMakeFiles/GlobalAir.dir
+C:/Users/raipr/Downloads/GlobalAir_Project/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/raipr/Downloads/GlobalAir_Project/build/CMakeFiles/ZERO_CHECK.dir

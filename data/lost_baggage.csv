@@ -1,0 +1,103 @@
+BAG001,PASS001,JFK,REPORTED,Electronics bag lost during transfer
+BAG002,PASS002,LAX,RESOLVED,Found at baggage claim
+BAG003,PASS003,ORD,INVESTIGATING,Delayed due to weather
+BAG001,PASS001,ORD,INVESTIGATING,Delayed due to crew change
+BAG002,PASS002,MAD,RESOLVED,Security hold for inspection
+BAG003,PASS003,DXB,INVESTIGATING,Misrouted to wrong carousel
+BAG004,PASS004,GRU,RESOLVED,Unhandled baggage at origin
+BAG005,PASS005,YYZ,RESOLVED,Customs hold due to prohibited item
+BAG006,PASS006,YYZ,REPORTED,Electronics bag lost during transfer
+BAG007,PASS007,HND,INVESTIGATING,Misrouted to wrong carousel
+BAG008,PASS008,ORD,INVESTIGATING,Damaged luggage found
+BAG009,PASS009,SYD,INVESTIGATING,Lost during baggage sorting
+BAG010,PASS010,MAD,REPORTED,Lost during baggage sorting
+BAG011,PASS011,CDG,INVESTIGATING,Lost during baggage sorting
+BAG012,PASS012,SIN,REPORTED,Damaged luggage found
+BAG013,PASS013,MAD,REPORTED,Electronics bag lost during transfer
+BAG014,PASS014,LHR,REPORTED,Electronics bag lost during transfer
+BAG015,PASS015,AMS,RESOLVED,Delayed due to crew change
+BAG016,PASS016,SYD,REPORTED,Damaged luggage found
+BAG017,PASS017,GRU,INVESTIGATING,Security hold for inspection
+BAG018,PASS018,AMS,RESOLVED,Security hold for inspection
+BAG019,PASS019,YYZ,RESOLVED,Electronics bag lost during transfer
+BAG020,PASS020,MAD,REPORTED,Electronics bag lost during transfer
+BAG021,PASS021,SYD,RESOLVED,Misrouted to wrong carousel
+BAG022,PASS022,HND,RESOLVED,Damaged luggage found
+BAG023,PASS023,MAD,INVESTIGATING,Electronics bag lost during transfer
+BAG024,PASS024,HND,RESOLVED,Found at baggage claim
+BAG025,PASS025,ORD,REPORTED,Security hold for inspection
+BAG026,PASS026,SIN,REPORTED,Damaged luggage found
+BAG027,PASS027,CDG,INVESTIGATING,Electronics bag lost during transfer
+BAG028,PASS028,JFK,REPORTED,Found at baggage claim
+BAG029,PASS029,AMS,INVESTIGATING,Found at baggage claim
+BAG030,PASS030,MAD,REPORTED,Security hold for inspection
+BAG031,PASS031,ATL,RESOLVED,Delayed due to weather
+BAG032,PASS032,ATL,INVESTIGATING,Lost during baggage sorting
+BAG033,PASS033,SYD,RESOLVED,Delayed due to crew change
+BAG034,PASS034,CDG,RESOLVED,Electronics bag lost during transfer
+BAG035,PASS035,LAX,REPORTED,Customs hold due to prohibited item
+BAG036,PASS036,LAX,REPORTED,Customs hold due to prohibited item
+BAG037,PASS037,ATL,RESOLVED,Customs hold due to prohibited item
+BAG038,PASS038,ORD,RESOLVED,Electronics bag lost during transfer
+BAG039,PASS039,MAD,INVESTIGATING,Electronics bag lost during transfer
+BAG040,PASS040,LAX,RESOLVED,Security hold for inspection
+BAG041,PASS041,DXB,INVESTIGATING,Electronics bag lost during transfer
+BAG042,PASS042,JFK,REPORTED,Lost during baggage sorting
+BAG043,PASS043,HND,INVESTIGATING,Found at baggage claim
+BAG044,PASS044,CDG,INVESTIGATING,Delayed due to weather
+BAG045,PASS045,HND,RESOLVED,Security hold for inspection
+BAG046,PASS046,FRA,INVESTIGATING,Misrouted to wrong carousel
+BAG047,PASS047,HND,RESOLVED,Unhandled baggage at origin
+BAG048,PASS048,YYZ,RESOLVED,Found at baggage claim
+BAG049,PASS049,HND,REPORTED,Found at baggage claim
+BAG050,PASS050,SYD,REPORTED,Misrouted to wrong carousel
+BAG051,PASS051,GRU,RESOLVED,Security hold for inspection
+BAG052,PASS052,JFK,INVESTIGATING,Customs hold due to prohibited item
+BAG053,PASS053,CDG,INVESTIGATING,Found at baggage claim
+BAG054,PASS054,SIN,REPORTED,Damaged luggage found
+BAG055,PASS055,DXB,INVESTIGATING,Found at baggage claim
+BAG056,PASS056,JFK,RESOLVED,Unhandled baggage at origin
+BAG057,PASS057,HND,INVESTIGATING,Delayed due to weather
+BAG058,PASS058,ORD,INVESTIGATING,Customs hold due to prohibited item
+BAG059,PASS059,SYD,INVESTIGATING,Misrouted to wrong carousel
+BAG060,PASS060,CDG,RESOLVED,Electronics bag lost during transfer
+BAG061,PASS061,HND,INVESTIGATING,Damaged luggage found
+BAG062,PASS062,GRU,RESOLVED,Misrouted to wrong carousel
+BAG063,PASS063,HND,INVESTIGATING,Lost during baggage sorting
+BAG064,PASS064,CDG,RESOLVED,Misrouted to wrong carousel
+BAG065,PASS065,FRA,RESOLVED,Delayed due to weather
+BAG066,PASS066,ATL,INVESTIGATING,Unhandled baggage at origin
+BAG067,PASS067,LHR,INVESTIGATING,Delayed due to weather
+BAG068,PASS068,SIN,INVESTIGATING,Delayed due to weather
+BAG069,PASS069,ATL,INVESTIGATING,Security hold for inspection
+BAG070,PASS070,MAD,INVESTIGATING,Delayed due to crew change
+BAG071,PASS071,SIN,INVESTIGATING,Security hold for inspection
+BAG072,PASS072,LHR,INVESTIGATING,Security hold for inspection
+BAG073,PASS073,DXB,INVESTIGATING,Customs hold due to prohibited item
+BAG074,PASS074,AMS,REPORTED,Security hold for inspection
+BAG075,PASS075,LHR,REPORTED,Unhandled baggage at origin
+BAG076,PASS076,SYD,RESOLVED,Delayed due to weather
+BAG077,PASS077,HND,REPORTED,Damaged luggage found
+BAG078,PASS078,GRU,RESOLVED,Unhandled baggage at origin
+BAG079,PASS079,DXB,REPORTED,Delayed due to weather
+BAG080,PASS080,CDG,REPORTED,Electronics bag lost during transfer
+BAG081,PASS081,FRA,INVESTIGATING,Found at baggage claim
+BAG082,PASS082,CDG,REPORTED,Unhandled baggage at origin
+BAG083,PASS083,JFK,INVESTIGATING,Delayed due to weather
+BAG084,PASS084,AMS,RESOLVED,Customs hold due to prohibited item
+BAG085,PASS085,MAD,REPORTED,Lost during baggage sorting
+BAG086,PASS086,DXB,REPORTED,Customs hold due to prohibited item
+BAG087,PASS087,ORD,REPORTED,Customs hold due to prohibited item
+BAG088,PASS088,JFK,RESOLVED,Unhandled baggage at origin
+BAG089,PASS089,MAD,REPORTED,Security hold for inspection
+BAG090,PASS090,SYD,INVESTIGATING,Found at baggage claim
+BAG091,PASS091,YYZ,RESOLVED,Lost during baggage sorting
+BAG092,PASS092,YYZ,RESOLVED,Security hold for inspection
+BAG093,PASS093,AMS,RESOLVED,Found at baggage claim
+BAG094,PASS094,ORD,INVESTIGATING,Found at baggage claim
+BAG095,PASS095,MAD,INVESTIGATING,Customs hold due to prohibited item
+BAG096,PASS096,SIN,INVESTIGATING,Electronics bag lost during transfer
+BAG097,PASS097,LHR,REPORTED,Security hold for inspection
+BAG098,PASS098,FRA,RESOLVED,Electronics bag lost during transfer
+BAG099,PASS099,HND,REPORTED,Lost during baggage sorting
+BAG100,PASS100,CDG,INVESTIGATING,Customs hold due to prohibited item
