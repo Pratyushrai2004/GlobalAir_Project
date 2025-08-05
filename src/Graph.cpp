@@ -4,7 +4,6 @@
 #include <iostream>
 #include <queue>
 #include <limits>
-#include <iostream>
 #include <algorithm>
 
 void Graph::loadAirports(const std::string& filepath) {

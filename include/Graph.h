@@ -40,4 +40,8 @@ public:
 
     /// Adjacency list for algorithms
     const std::vector<Edge>& getAdj(int u) const;
+
+    /// Shortest path algorithms
+    void dijkstra(const std::string& src, const std::string& dst);
+    void bellmanFord(const std::string& src, const std::string& dst);
 };
